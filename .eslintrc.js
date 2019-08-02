@@ -24,5 +24,6 @@ module.exports = {
     'jest',
   ],
   rules: {
+    "jsx-a11y/alt-text": false,
   },
 };
